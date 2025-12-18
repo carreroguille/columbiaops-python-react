@@ -76,7 +76,6 @@ node_modules/
 .pnp.js
 
 # Production Build Output
-# Quitamos la barra inicial '/' para que ignore build/ y dist/ dentro de /frontend o /backend
 build/
 dist/
 .output/
