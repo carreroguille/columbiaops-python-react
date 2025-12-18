@@ -1,0 +1,5 @@
+{
+  "name": "Engineering Command Center",
+  "description": "A personal engineering dashboard for project management, metrics monitoring, and AI-assisted project scaffolding.",
+  "requestFramePermissions": []
+}
